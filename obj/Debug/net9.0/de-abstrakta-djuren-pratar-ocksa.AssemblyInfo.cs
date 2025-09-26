@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("de-abstrakta-djuren-pratar-ocksa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80499ef081790364f6fab41ba116d7e30d86f4f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+904a0759b2e087b2a80941f6b7bad581e5842b8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("de-abstrakta-djuren-pratar-ocksa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("de-abstrakta-djuren-pratar-ocksa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ C:\Users\LENOVO\Desktop\Objektorienterad Programmering med C# & .NET\2025-09-25\
 C:\Users\LENOVO\Desktop\Objektorienterad Programmering med C# & .NET\2025-09-25\ovningsuppgift_de-abstrakta-djuren-pratar-ocksa\de-abstrakta-djuren-pratar-ocksa\obj\Debug\net9.0\de-abstrakta-djuren-pratar-ocksa.pdb
 C:\Users\LENOVO\Desktop\Objektorienterad Programmering med C# & .NET\2025-09-25\ovningsuppgift_de-abstrakta-djuren-pratar-ocksa\de-abstrakta-djuren-pratar-ocksa\obj\Debug\net9.0\de-abstrakta-djuren-pratar-ocksa.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\Objektorienterad Programmering med C# & .NET\2025-09-25\ovningsuppgift_de-abstrakta-djuren-pratar-ocksa\de-abstrakta-djuren-pratar-ocksa\obj\Debug\net9.0\ref\de-abstrakta-djuren-pratar-ocksa.dll
+C:\Users\LENOVO\Desktop\Objektorienterad Programmering med C# & .NET\2025-09-25\ovningsuppgift_de-abstrakta-djuren-pratar-ocksa\de-abstrakta-djuren-pratar-ocksa\obj\Debug\net9.0\de-abstrakta-djuren-pratar-ocksa.sourcelink.json

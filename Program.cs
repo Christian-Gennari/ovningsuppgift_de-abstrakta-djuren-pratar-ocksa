@@ -2,12 +2,12 @@
 
 List<Animal> animals =
 [
-    new Dog("Sir Barks-a-Lot"),
-    new Dog("Droolius Caesar"),
-    new Cat("Waffleton"),
-    new Cat("Meowstro"),
-    new Cow("Cowabunga"),
-    new Cow("Oreo"),
+    new Dog("Sir Barks-a-Lot", "pizza"),
+    new Dog("Droolius Caesar", "bones"),
+    new Cat("Waffleton", "on the windowsill"),
+    new Cat("Meowstro", "under the bed"),
+    new Cow("Cowabunga", "Hay Fever Farms"),
+    new Cow("Oreo", "Hay Fever Farms")
 ];
 
 foreach (var animal in animals)

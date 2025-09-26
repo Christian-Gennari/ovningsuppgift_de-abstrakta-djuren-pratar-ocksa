@@ -5,13 +5,16 @@ namespace de_abstrakta_djuren_pratar_ocksa;
 public class Cat : Animal
 {
 
-  public Cat(string name)
+  private string sleepingPlace = "";
+
+  public Cat(string name, string sleepingPlace)
   {
     this.name = name;
+    this.sleepingPlace = sleepingPlace;
   }
 
   public override void Speak()
   {
-    Console.WriteLine($"{name} says Meow!"); ;
+    Console.WriteLine($"{name} says Meow! while lounging {sleepingPlace}"); ;
   }
 }
